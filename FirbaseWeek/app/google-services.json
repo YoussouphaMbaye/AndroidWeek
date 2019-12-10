@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "654743250940",
+    "firebase_url": "https://bambeyweek.firebaseio.com",
+    "project_id": "bambeyweek",
+    "storage_bucket": "bambeyweek.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654743250940:android:214458d358f610eabbf479",
+        "android_client_info": {
+          "package_name": "com.example.firbaseweek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654743250940-n8oq059c0gbb3hek12eq4btrbd4jqotu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firbaseweek",
+            "certificate_hash": "8c286ae4661aa7518064b51c7caa73bb87a75cdf"
+          }
+        },
+        {
+          "client_id": "654743250940-dsc92mfhjdr6t8uh1prnnh5kp5gd99e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRSK-hzs7q_8BYQP85hFqR_JcR4yAlAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654743250940-dsc92mfhjdr6t8uh1prnnh5kp5gd99e7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

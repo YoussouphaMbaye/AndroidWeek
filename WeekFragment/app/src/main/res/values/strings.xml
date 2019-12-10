@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeekFragment</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yes_message">YES</string>
+    <string name="no_message">NO</string>
+</resources>
